@@ -24,8 +24,8 @@ $instructions = '<strong>The above generated code is incomplete for this plugin!
 .slideshow { height: 200px; width: 200px; margin: auto } <br />
 .slideshow img { padding: 15px; border: 1px solid #ccc; background-color: #eee; } <br />
 &lt;/style&gt; <br />
-&lt;script type="text/javascript" src="'.$gallery_dir.'plog-content/plugins/'.$plugin_folder_basename.'/js/jquery.min.js"&gt;&lt;/script&gt; <br />
-&lt;script type="text/javascript" src="'.$gallery_dir.'plog-content/plugins/'.$plugin_folder_basename.'/js/jquery.cycle.all.latest.js"&gt;&lt;/script&gt; <br/>
+&lt;script type="text/javascript" src="'.$gallery_dir.'plog-content/plugins/'.$plugin_folder_basename.'/jquery.min.js"&gt;&lt;/script&gt; <br />
+&lt;script type="text/javascript" src="'.$gallery_dir.'plog-content/plugins/'.$plugin_folder_basename.'/jquery.cycle.all.latest.js"&gt;&lt;/script&gt; <br/>
 
 &lt;script type=&quot;text/javascript&quot;&gt;  <br/>
 &#36;(document).ready(function() &#123; <br />
