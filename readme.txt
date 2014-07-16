@@ -4,10 +4,11 @@ Plogger Random Image Fade
 About
 ------
 
-This script Displays a specified number of random thumbnails from your gallery Albums on your website. This updated Plugin can now show any selected Album on any given page, using a java script image fade and replace effect.
+This script Displays a specified number of random thumbnails from your gallery Albums on your website. This Plugin can show any selected Album on any given page, using a java script image fade and replace effect.
 
 Installation/Set-up
 ------------------
+Save all files into a directory named "random-fade" (without the quotes).
 Upload the /random-fade/ folder to your Plogger /plog-content/plugins/ folder. To include random fade images in your website page, click "Use this plugin" and copy the php code shown in the instructions section. Note the generated code from the plog-plugins.php file is incomplete for this plugin DO NOT USE IT!
 There are two part to copy and paste into the page(s) that you want the Random Fade Images. The first part goes into the <head> section of the the page(s) where you would like the Random Fade Images. The second part goes into the <Body> section and placed where you want the images to show.
 
